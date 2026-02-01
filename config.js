@@ -9,13 +9,13 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Valentine? 💝",
+    pageTitle: "Will You Be My Valentine? 🐨",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
-        bears: ['🧸', '🐻']                       // Cute bear emojis
+        hearts: ['💙', '💖', '💝', '👸🏻', '💓'],  // Heart emojis
+        bears: ['🐨', '🌝']                       // Cute bear emojis
     },
 
     // Questions and answers
@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2026? 🌹", // The big question!
+            text: "Will you be my Valentine on February 14th, 2026? 🐨🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -49,16 +49,16 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Let's finally get our desserts.. :)",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        title: "Yay! I'm the luckiest person in the world! 🎉🕊️🍀💝🕊️",
+        message: "Let's go finally get our desserts.. :)",
+        emojis: "🎁💖💍💝💌👰‍♀️💕"  // These will bounce around
     },
 
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-        backgroundStart: "#fbacebe",      // Gradient start (try pastel colors for a soft look)
-        backgroundEnd: "#ffc3a0",        // Gradient end (should complement backgroundStart)
+        backgroundStart: "#fbacbe",      // Gradient start (try pastel colors for a soft look)
+        backgroundEnd: "#ff9fb2",        // Gradient end (should complement backgroundStart)
         buttonBackground: "#ff6b6b",     // Button color (should stand out against the background)
         buttonHover: "#ff8787",          // Button hover color (slightly lighter than buttonBackground)
         textColor: "#ff4757"             // Text color (make sure it's readable!)
